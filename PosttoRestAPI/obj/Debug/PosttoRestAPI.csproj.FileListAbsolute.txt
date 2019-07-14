@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\bin\Debug\PosttoRestAPI.exe.config
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\bin\Debug\PosttoRestAPI.exe
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\bin\Debug\PosttoRestAPI.pdb
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.Form1.resources
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.exe
+C:\Users\Administrator\source\repos\PosttoRestAPI\PosttoRestAPI\obj\Debug\PosttoRestAPI.pdb
